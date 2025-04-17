@@ -16,9 +16,9 @@ This Power BI dashboard analyzes key financial indicators across European Union 
 - World Bank – [Global Financial Development Database](https://databank.worldbank.org/source/global-financial-development)
 
 ## !Preview
-![Dashboard Screenshot](./EU-Financial-Analysis/Finance%20Analysis%20Greece%20vs%20EU.jpg)
+![Dashboard Screenshot](https://github.com/StefanosBlets/PowerBI-Portfolio/blob/main/EU-Financial-Analysis/Finance%20Analysis%20Greece%20vs%20EU.jpg?raw=true)
 
 ## 📄 Project Presentation (PDF)
-[Click here to view the full presentation](./EU-Financial-Analysis/Financial%20Analysis_GDP-Greece%20%26%20EU.pdf)
+[Click here to view the full presentation](https://github.com/StefanosBlets/PowerBI-Portfolio/blob/main/EU-Financial-Analysis/Financial%20Analysis_GDP-Greece%20%26%20EU.pdf?raw=true)
 
 **Created with ❤️ by StefanosBlets**

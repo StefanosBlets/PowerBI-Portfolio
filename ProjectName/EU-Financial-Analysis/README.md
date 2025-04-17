@@ -1,11 +1,21 @@
-What you’ll find in the dashboard:
+# 📊 EU Financial Analysis (2012–2023)
 
-Year-over-year GDP trends
+## 📌 Overview
+This Power BI dashboard analyzes key financial indicators across European Union countries over a 25-year period. It allows for comparisons between Greece and the EU average, visualizing major macroeconomic trends.
 
-Growth comparisons between Greece and EU
+## 🧠 Key Insights
+- GDP per capita evolution (Greece vs EU)
+- Unemployment rate trends
+- Inflation analysis per country
+- Government debt-to-GDP ratio
 
-Key insights from major economic events
+## 📂 File
+- `EU-Financial-Analysis.pbix` – The full Power BI file
 
-Interactive visuals for better storytelling
+## 🌍 Data Source
+- World Bank – [Global Financial Development Database](https://databank.worldbank.org/source/global-financial-development)
 
-🛠️ Built with: Microsoft Power BI
+## 📄 Project Presentation (PDF)
+[Click here to view the full presentation](./EU-Financial-Analysis-Project.pdf)
+
+**Created with ❤️ by StefanosBlets**

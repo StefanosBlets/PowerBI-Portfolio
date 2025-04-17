@@ -16,7 +16,7 @@ This Power BI dashboard analyzes key financial indicators across European Union 
 - World Bank – [Global Financial Development Database](https://databank.worldbank.org/source/global-financial-development)
 
 ## !Preview
-![Dashboard](img/dashboard.png)
+![Dashboard Screenshot](./img/dashboard.jpg)
 
 ## 📄 Project Presentation (PDF)
 [Click here to view the full presentation](./EU-Financial-Analysis-Project.pdf)
